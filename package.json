@@ -1,0 +1,19 @@
+{
+  "name": "e-motion-server",
+  "version": "0.0.1",
+  "description": "E-Motion Server est le serveur visant à traiter des données importantes du dashboard tel que les connexions api, ou la gestion de vol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pazzazzo/E-Motion-Server.git"
+  },
+  "author": "pazzazzo",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/pazzazzo/E-Motion-Server/issues"
+  },
+  "homepage": "https://github.com/pazzazzo/E-Motion-Server#readme"
+}
